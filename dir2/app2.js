@@ -1,0 +1,1 @@
+alert("xayoo ma tera streama, a ja ucze sie githuba hhihihihi");
